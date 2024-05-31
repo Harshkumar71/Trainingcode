@@ -44,12 +44,12 @@
 # else:
     # print("i is not longer then 6")  
 
-i = 2
-while i<20:
-    print(i)
-    i+=1
-else:
-     print("i is not greater then ten")
+# i = 2
+# while i<20:
+    # print(i)
+    # i+=1
+# else:
+    #  print("i is not greater then ten")
 
 
 
@@ -113,29 +113,6 @@ else:
 #   return lambda a:a*n
 # double = function(2)
 # print(double(44))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
