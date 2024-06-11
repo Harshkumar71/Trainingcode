@@ -1,3 +1,5 @@
+#receiver text
+
 import socket
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 ip_address =  '192.168.231.1'

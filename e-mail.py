@@ -13,4 +13,4 @@ try:
     print("mene mail send kar diya h")
     server.quit()
 except Exception  as e:
-    print("mail send nhi huiiii")    
+    print("mail send nhi huiiii")     

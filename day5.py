@@ -5,20 +5,20 @@
 
 #str = ("it is ten" +10)
 
-n1 = int(input("enter the value"))
-n2 = int(input("enter the value"))
-
-try:
-    print("program is running")
-    result = n1/n2
-    print("program is running")
-except Exception as e:
-    print("as get an error") 
-                         print(e)
-else:
-    print("no exception found") 
-finally:
-    print("hello world")    
+# n1 = int(input("enter the value"))
+# n2 = int(input("enter the value"))
+# 
+# try:
+    # print("program is running")
+    # result = n1/n2
+    # print("program is running")
+# except Exception as e:
+    # print("as get an error") 
+                        #  print(e)
+# else:
+    # print("no exception found") 
+# finally:
+    # print("hello world")    
 
 
 #  oops
